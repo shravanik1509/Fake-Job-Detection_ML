@@ -46,7 +46,7 @@ Online job scams are increasing rapidly. This project helps users identify fake 
 
 ## 📸 Demo
 
-![App Screenshot](Screenshot 2026-04-14 141250.png)
+![App Screenshot](demo.png)
 
 ---
 
